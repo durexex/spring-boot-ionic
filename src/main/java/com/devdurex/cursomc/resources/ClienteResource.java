@@ -11,7 +11,7 @@ import com.devdurex.cursomc.domain.Cliente;
 import com.devdurex.cursomc.services.ClienteService;
 
 @RestController
-@RequestMapping(value="/Clientes")
+@RequestMapping(value="/clientes")
 public class ClienteResource {
 
 	@Autowired
